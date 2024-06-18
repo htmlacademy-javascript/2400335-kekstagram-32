@@ -2,7 +2,7 @@
 
 * Студент: [Екатерина Набатова](https://up.htmlacademy.ru/javascript/32/user/2400335).
 * Наставник: [Вячеслав Николаев] (https://htmlacademy.ru/profile/slavka_piyavka).
-* Сайт: [Мой проект] (https://koheri66.github.io/2400335-kekstagram-32/).
+* Сайт: [Мой проект Kekstagram] (https://koheri66.github.io/2400335-kekstagram-32/).
 
 
 ---
